@@ -56,4 +56,10 @@ This ETL mini project involved extracting, transforming, and loading data from E
 
 
 
+Additional Support was provided by and greatly appreciated from
+TA Andrew 
+
+
+
+
 
